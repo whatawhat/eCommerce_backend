@@ -11,12 +11,28 @@ This is an application that allows the user to keep track of their stock for a s
 ---
 ## Video Link
 There are two videos to show  the features of the application. 
-### Video 1 [Link to Video 1](https://drive.google.com/file/d/1sAQ-4LN4bKXMXu1-VCkbx2ksG88PZkG9/view)
-This video shows how to get the tags, categories, and products. It also shows how to create, update and delete tags and categories.
+### Video 1 [Link to Video 1](https://drive.google.com/file/d/1zMezbFKHEojPee87LRJOO9rfPvAVpMfi/view)
+This video shows how to use MySQL Shell. I dropped and created the database. I then seeded the database and started the server. 
 
 ---
-### Video 2 [Link to Video 2](https://drive.google.com/file/d/1joCkntU7UuffN8L2098ncn_nnT0lM_-1/view)
-This video shows the confirmation of the delete for categories because video one cut off. Then, it shows how to create, update, and delete products.
+### Video 2 [Link to Video 2](https://drive.google.com/file/d/1ahZrMAA1iSXLY-ZTEtGe2qDddoe9fQf-/view)
+This video shows how to get all tags, categories, and properties.
+
+---
+### Video 3 [Link to Video 3](https://drive.google.com/file/d/1DvfcBR3sQEzIow0LXeRtbNMzHWC2dnKi/view)
+This video shows how to get one tag, cateogry, and product based on the id. 
+
+---
+### Video 4 [Link to Video 4](https://drive.google.com/file/d/14iuovUnbN_PWkw9dbr-VsWOUlsSCzZH9/view)
+This video shows how to post, put and delete tags.
+
+---
+### Video 5 [Link to Video 5](https://drive.google.com/file/d/15wLSrUvHu_7a7zZc_6138fNzMEB6UFL6/view)
+This video shows how to post, put and delete categories
+
+---
+### Video 6 [Link to Video 6](https://drive.google.com/file/d/1wmlYW3OxVUaKNg9CoHz69LUICLEOap-c/view)
+This video shows how to post, put, and delete products.
 
 ---
 ## How to Use
